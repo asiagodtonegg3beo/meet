@@ -73,7 +73,7 @@ return rev;
 
 ```
 
-![](assets/markdown-img-paste-20220513032948950.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513032948950.png)
 ---
 ## 程式碼(C++)
 官方解法：

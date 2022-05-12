@@ -14,7 +14,7 @@ It is guaranteed that the node to be deleted is not a tail node in the list.
 
 Example 1:
 
-![](assets/markdown-img-paste-20220512154507280.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220512154507280.png)
 
 ```
 Input: head = [4,5,1,9], node = 5
@@ -23,7 +23,7 @@ Output: [4,1,9]
 Explanation: You are given the second node with value 5, the linked list should become 4 -> 1 -> 9 after calling your function.
 
 Example 2:
-![](assets/markdown-img-paste-20220512154522879.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220512154522879.png)
 ```
 Input: head = [4,5,1,9], node = 1
 Output: [4,5,9]
@@ -43,7 +43,7 @@ The node to be deleted is in the list and is not a tail node
 
 ---
 ## 解法(演算法):
-![](assets/markdown-img-paste-2022051300144278.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-2022051300144278.png)
 ---
 ## 程式碼(C++)
 ```C++
@@ -74,7 +74,7 @@ Given the head of a linked list and an integer val, remove all the nodes of the 
 ( 給val，刪除list中符合val的node )
 
 Example 1:
-![](assets/markdown-img-paste-20220513024246447.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513024246447.png)
 ```
 Input: head = [1,2,6,3,4,5,6], val = 6
 Output: [1,2,3,4,5]
@@ -100,8 +100,8 @@ The number of nodes in the list is in the range [0, 104].
 
 ---
 ## 解法(演算法):
-![](assets/markdown-img-paste-20220513001754815.png)
-![](assets/markdown-img-paste-20220513001811800.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513001754815.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513001811800.png)
 ---
 ## 程式碼(C++)
 面試題:
@@ -180,7 +180,7 @@ Given the head of a sorted linked list, delete all duplicates such that each ele
 
 Example 1:
 
-![](assets/markdown-img-paste-20220510231505459.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220510231505459.png)
 
 ```
 Input: head = [1,1,2]
@@ -188,7 +188,7 @@ Output: [1,2]
 ```
 Example 2:
 
-![](assets/markdown-img-paste-20220510231534181.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220510231534181.png)
 ```
 Input: head = [1,1,2,3,3]
 Output: [1,2,3]
@@ -205,8 +205,8 @@ The list is guaranteed to be sorted in ascending order.
 
 ---
 ## 解法(演算法):
-![](assets/markdown-img-paste-20220513024725975.png)
-![](assets/markdown-img-paste-20220513024742318.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513024725975.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513024742318.png)
 ---
 ## 程式碼(C++)
 面試題:
@@ -281,7 +281,7 @@ Given the head of a sorted linked list, delete all nodes that have duplicate num
 
 Example 1:
 
-![](assets/markdown-img-paste-20220513025023843.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513025023843.png)
 
 ```
 Input: head = [1,2,3,3,4,4,5]
@@ -290,7 +290,7 @@ Output: [1,2,5]
 
 Example 2:
 
-![](assets/markdown-img-paste-2022051302503684.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-2022051302503684.png)
 
 ```
 Input: head = [1,1,1,2,3]
@@ -310,8 +310,8 @@ Submiss
 
 ---
 ## 解法(演算法):
-![](assets/markdown-img-paste-20220513025145364.png)
-![](assets/markdown-img-paste-20220513025212516.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513025145364.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513025212516.png)
 ---
 ## 程式碼(C++)
 面試題:
@@ -392,7 +392,7 @@ Given the head of a linked list, remove the nth node from the end of the list an
 
 Example 1:
 
-![](assets/markdown-img-paste-20220513025656850.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513025656850.png)
 
 ```
 Input: head = [1,2,3,4,5], n = 2
@@ -424,8 +424,8 @@ The number of nodes in the list is sz.
 
 ---
 ## 解法(演算法):
-![](assets/markdown-img-paste-20220513025811883.png)
-![](assets/markdown-img-paste-20220513025840937.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513025811883.png)
+![](https://github.com/asiagodtonegg3beo/meet/raw/main/assets/markdown-img-paste-20220513025840937.png)
 ---
 ## 程式碼(C++)
 ```C++
