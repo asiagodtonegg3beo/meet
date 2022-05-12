@@ -6,6 +6,10 @@
 
 ---
 ## 題目大要:
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
+
+Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
+
 給定一個有號32bit整數x，回傳反轉後的數值。
 如果反轉後的x超出有號32bit整數範圍[$-2^{31}$, $2^{31} - 1$]，則回傳 0。
 
@@ -68,6 +72,8 @@ while(x!=0){
 return rev;
 
 ```
+
+![](assets/markdown-img-paste-20220513032948950.png)
 ---
 ## 程式碼(C++)
 官方解法：
